@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8466454-c303-4fb7-92ba-310517cd70a1)# Hi there, I'm Ronak Meena! 👋
+# Hi there, I'm Ronak Meena! 👋
 
 🚀 **Aspiring Entrepreneur & Developer** | 🛠 **Building cool projects** | 🌍 **Tech Enthusiast**
 
