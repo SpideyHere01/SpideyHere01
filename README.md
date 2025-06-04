@@ -33,24 +33,25 @@
 ---
 
 ## 📊 GitHub Stats
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronakmeena&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakmeena&layout=compact&theme=radical)
+![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpideyHere01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideyHere01&layout=compact&theme=radical)
 
 ---
 
 ## 📌 My Projects
-- 🌟 **[Aura Buddy](#)** – A Discord economy game bot.
-- 💖 **[Tentative](#)** – An online dating app.
-- 🎵 **[Custom Music Player](#)** – A local music player with search & download features.
+- 🌟 **[Aura Buddy](https://github.com/SpideyHere01/Aura-Buddy)** – A Discord economy game bot.
+- 💖 **[Tentative](https://github.com/SpideyHere01/Tentative)** – An online dating app.
+- 🎵 **[Custom Music Player](https://github.com/SpideyHere01/Custom-MusicPlayer)** – A local music player with search & download features.
 - 🤖 **[AI Assistant](#)** – Built with C++/C#.
+- 🚀 **[Personal Portfolio](https://github.com/SpideyHere01/portfolio)** – Ubuntu-themed portfolio site.
 - 🚀 **Open-source contributions** – Coming soon!
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakmeena)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ronakslore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ronakpappu.github.io/)
 
 ---
 
